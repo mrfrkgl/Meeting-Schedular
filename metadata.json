@@ -1,0 +1,5 @@
+{
+  "name": "Team Meeting Scheduler",
+  "description": "A simple web application for a small project group to arrange weekly meeting days. Users can submit their availability, and an admin view shows a consolidated schedule highlighting common available times.",
+  "requestFramePermissions": []
+}
